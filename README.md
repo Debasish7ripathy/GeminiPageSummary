@@ -1,6 +1,14 @@
+Here's the properly formatted version of the *Gemini Page Summarizer* documentation:
+
+---
+
 # Gemini Page Summarizer
 
 Gemini Page Summarizer is a Chrome extension that allows you to summarize the current web page using the Gemini API. By simply clicking the "Summarize" button in the popup, the extension fetches and processes the content of the page, generating a concise summary.
+
+![image](https://github.com/user-attachments/assets/b2c67412-4227-4d4b-8d7a-d5fb65a96d7b)  
+![image](https://github.com/user-attachments/assets/a26d90e5-909b-48b7-afe0-b28108771c94)  
+![image](https://github.com/user-attachments/assets/f2ac1508-fb61-402c-a225-6d5008d8e3e5)
 
 ## Features
 
@@ -210,3 +218,5 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Acknowledgements
 
 - The Gemini API for content summarization.
+
+---
